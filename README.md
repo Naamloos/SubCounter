@@ -18,3 +18,6 @@ It's really simple to set up.
 6. **DONE! :heart:**
 
 ### Thank you for using my sub counter!
+
+## Default setup example:
+![Example](http://i.imgur.com/7oYvb1s.png)

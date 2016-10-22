@@ -1,5 +1,5 @@
 # SubCounter
-A noob-friendly and fully customizable Youtube subscriber counter.
+A noob-friendly and fully customizable Youtube subscriber counter written in PHP.
 
 ## Thanks
 ##### Made by: [NaamloosDT](https://github.com/NaamloosDT/)

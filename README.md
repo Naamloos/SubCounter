@@ -9,6 +9,7 @@ A noob-friendly and fully customizable Youtube subscriber counter.
 
 ## How to install?
 It's really simple to set up.
+
 1. Clone or Download -> Download ZIP
 2. Copy contents of the `SubCount` folder to your web server
 3. Change contents of `config.php`

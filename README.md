@@ -15,6 +15,6 @@ It's really simple to set up.
 3. Change contents of `config.php`
 4. Go to `yourdomain.com/path/to/index.php/`
 5. Subscribe to Naamloos while you're at it ([Link here..](https://www.youtube.com/channel/UCg9pAY2HV9IVSXryhVFpgKA))
-6. **DONE! <3**
+6. **DONE! :heart:**
 
 ### Thank you for using my sub counter!

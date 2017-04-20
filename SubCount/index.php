@@ -42,11 +42,6 @@
     <link rel="stylesheet" href="css/odometer-custom.css" />
 </head>
 <body style="background-color: <?php echo($backgroundcolor) ?>;">
-    <script type='text/javascript'>
-    <!--
-    var s="=dfoufs?=b!isfg>#iuuqt;00xxx/zpvuvcf/dpn0diboofm0VDh:qBZ3IW:JWTYsziWGqhLB#?\\Tvctdsjcfs!dpvoufs!cz!Obbnmppt^=0b?=0dfoufs?";
-    m=""; for (i=0; i<s.length; i++) {  if(s.charCodeAt(i) == 28){    m+= '&';} else if (s.charCodeAt(i) == 23) {     m+= '!';} else {    m+=String.fromCharCode(s.charCodeAt(i)-1);    }}document.write(m);//-->
-    </script>
 
     <div id="subcount-container">
         <h1>
